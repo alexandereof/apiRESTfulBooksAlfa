@@ -1,0 +1,1 @@
+https://github.com/jersey/jersey/tree/2.25.1/examples --jax-rs examples
